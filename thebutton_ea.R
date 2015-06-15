@@ -1,7 +1,7 @@
 # Data Visualization and Analysis of Reddit's "The Button" Data
 # Myles Harrison
 # June 2015
-#http://www.everydayanalytics.ca/2015/06/data-visualization-and-analysis-of-the-button-reddit.html
+# http://www.everydayanalytics.ca/2015/06/data-visualization-and-analysis-of-the-button-reddit.html
 
 # REQUIREMENTS
 library(ggplot2)
